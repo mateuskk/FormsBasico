@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+.userinfo {
+    position: relative;
+    font-size: 30px;
+    border: solid salmon;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+
+}
+
+
+
+textarea {
+    border-radius: 10px;
+    border: solid;
+    position: relative;
+    top: 12px;
+    font-size: large;
+    resize: none;
+    
+}
